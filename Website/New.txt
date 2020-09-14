@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: powderblue;}
+h1 {
+  color: blue;
+  font-family: comic sans ms;
+  font-size: 300%;
+}
+p  {
+  color: red;
+  font-family: cursive;
+  font-size: 160%;
+}
+</style>
+</head>
+<body>
+<h1 style="text-align:center;"><b><i><mark>HEY AMRUTA !!!</mark></i></b></h1>
+<img src="IMG_20190614_173637.jpg" width="200" height="200" alt="Its me" rotate="90">
+<img src="IMG_20190614_173928.jpg" width="200" height="200" alt="Its me" rotate="90">
+<img src="IMG_20190614_172526.jpg" width="200" height="200" alt="Its me" rotate="90">
+<img src="IMG_20190615_130622.jpg" width="200" height="200" alt="Its me" rotate="90">
+<img src="IMG_20190622_163358.jpg" width="200" height="200" alt="Its me" rotate="90">
+<img src="IMG_20190622_181948.jpg" width="200" height="200" alt="Its me" rotate="90">
+<a href="file:///C:/Users/HP/Desktop/pappa.html" target="_blank">Pappa's VIEWS about you!!</a>
+</body>
+</html>
